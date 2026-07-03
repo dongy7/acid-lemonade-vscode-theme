@@ -1,0 +1,22 @@
+{
+  "name": "acid-lemonade-theme",
+  "displayName": "Acid Lemonade",
+  "description": "A dark VSCode theme featuring acid neon greens and deep black.",
+  "version": "1.0.0",
+  "publisher": "",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Acid Lemonade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/acid-lemonade-color-theme.json"
+      }
+    ]
+  }
+}
