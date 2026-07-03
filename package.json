@@ -4,6 +4,7 @@
   "description": "A dark VSCode theme featuring acid neon greens and deep black.",
   "version": "1.0.0",
   "publisher": "",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
   },
